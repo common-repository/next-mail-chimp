@@ -1,0 +1,22 @@
+
+== Changelog ==
+
+= 2.0.1 - 30 Jan 2020 = 
+
+* Error fixed
+
+= 2.0.0 - 01 Jan 2020 = 
+
+* Initial setup Providers (Active Campaign, Aweber, Mail Poet etc.) and start new service for manage subscripe user, create list, create campaign for pro
+
+= 1.0.1 =
+
+* Default subscribe forms style with Button icons
+
+= 1.0.0 =
+
+* Integrate  Mailchimp Providers for Subscribe
+
+= 0.0.1 - 25 Feb 2019 =
+
+* Initial release

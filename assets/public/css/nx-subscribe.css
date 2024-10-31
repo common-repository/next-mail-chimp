@@ -1,0 +1,247 @@
+@font-face {
+  font-family: 'nx-subscribe';
+  src:  url('fonts/nx-subscribe.eot?w8wmzu');
+  src:  url('fonts/nx-subscribe.eot?w8wmzu#iefix') format('embedded-opentype'),
+    url('fonts/nx-subscribe.ttf?w8wmzu') format('truetype'),
+    url('fonts/nx-subscribe.woff?w8wmzu') format('woff'),
+    url('fonts/nx-subscribe.svg?w8wmzu#nx-subscribe') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+.nx-subscribe {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'nx-subscribe' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.nx-subscribe-close-envelope:before {
+  content: "\edd5";
+}
+.nx-subscribe-contact:before {
+  content: "\edd6";
+}
+.nx-subscribe-email--3 .path1:before {
+  content: "\edd7";
+  color: rgb(255, 209, 92);
+}
+.nx-subscribe-email--3 .path2:before {
+  content: "\edd8";
+  margin-left: -1em;
+  color: rgb(248, 182, 76);
+}
+.nx-subscribe-email--3 .path3:before {
+  content: "\edd9";
+  margin-left: -1em;
+  color: rgb(64, 89, 107);
+}
+.nx-subscribe-email--3 .path4:before {
+  content: "\edda";
+  margin-left: -1em;
+  color: rgb(242, 242, 242);
+}
+.nx-subscribe-email--3 .path5:before {
+  content: "\eddb";
+  margin-left: -1em;
+  color: rgb(205, 214, 224);
+}
+.nx-subscribe-email--3 .path6:before {
+  content: "\eddc";
+  margin-left: -1em;
+  color: rgb(255, 112, 88);
+}
+.nx-subscribe-email-0:before {
+  content: "\eddd";
+}
+.nx-subscribe-email-1:before {
+  content: "\edde";
+}
+.nx-subscribe-email-2:before {
+  content: "\eddf";
+}
+.nx-subscribe-email-4 .path1:before {
+  content: "\ede0";
+  color: rgb(255, 83, 100);
+}
+.nx-subscribe-email-4 .path2:before {
+  content: "\ede1";
+  margin-left: -1em;
+  color: rgb(251, 123, 118);
+}
+.nx-subscribe-email-4 .path3:before {
+  content: "\ede2";
+  margin-left: -1em;
+  color: rgb(223, 77, 96);
+}
+.nx-subscribe-email-5:before {
+  content: "\ede3";
+}
+.nx-subscribe-email-6:before {
+  content: "\ede4";
+}
+.nx-subscribe-email-filled-closed-envelope:before {
+  content: "\ede5";
+}
+.nx-subscribe-envelope-0:before {
+  content: "\ede6";
+}
+.nx-subscribe-envelope-2:before {
+  content: "\ede7";
+}
+.nx-subscribe-forward-arrow:before {
+  content: "\ede8";
+}
+.nx-subscribe-mail-0:before {
+  content: "\ede9";
+}
+.nx-subscribe-mail-black-envelope-symbol:before {
+  content: "\edea";
+}
+.nx-subscribe-paper-plane1:before {
+  content: "\edeb";
+}
+.nx-subscribe-paper-plane-1:before {
+  content: "\edec";
+}
+.nx-subscribe-paper-plane-2:before {
+  content: "\eded";
+}
+.nx-subscribe-right-arrow:before {
+  content: "\edee";
+}
+.nx-subscribe-right-arrow-1:before {
+  content: "\edef";
+}
+.nx-subscribe-right-arrow-2:before {
+  content: "\edf0";
+}
+.nx-subscribe-send-0:before {
+  content: "\edf1";
+}
+.nx-subscribe-send-1:before {
+  content: "\edf2";
+}
+.nx-subscribe-send-2:before {
+  content: "\edf3";
+}
+.nx-subscribe-send-3:before {
+  content: "\edf4";
+}
+.nx-subscribe-send-button:before {
+  content: "\edf5";
+}
+.nx-subscribe-sent-mail:before {
+  content: "\edf6";
+}
+.nx-subscribe-share3:before {
+  content: "\edf7";
+}
+.nx-subscribe-heart1:before {
+  content: "\eda5";
+}
+.nx-subscribe-cloud6:before {
+  content: "\eda6";
+}
+.nx-subscribe-star:before {
+  content: "\eda7";
+}
+.nx-subscribe-bubble1:before {
+  content: "\edb9";
+}
+.nx-subscribe-like:before {
+  content: "\edbf";
+}
+.nx-subscribe-paperplane:before {
+  content: "\edc3";
+}
+.nx-subscribe-undo:before {
+  content: "\ec1f";
+}
+.nx-subscribe-redo:before {
+  content: "\ec20";
+}
+.nx-subscribe-undo2:before {
+  content: "\ec21";
+}
+.nx-subscribe-redo2:before {
+  content: "\ec22";
+}
+.nx-subscribe-forward:before {
+  content: "\ec23";
+}
+.nx-subscribe-reply:before {
+  content: "\ec24";
+}
+.nx-subscribe-bubble:before {
+  content: "\ec25";
+}
+.nx-subscribe-bubbles:before {
+  content: "\ec26";
+}
+.nx-subscribe-bubbles2:before {
+  content: "\ec27";
+}
+.nx-subscribe-bubble2:before {
+  content: "\ec28";
+}
+.nx-subscribe-bubbles3:before {
+  content: "\ec29";
+}
+.nx-subscribe-bubbles4:before {
+  content: "\ec2a";
+}
+.nx-subscribe-power:before {
+  content: "\ec6f";
+}
+.nx-subscribe-heart:before {
+  content: "\ec94";
+}
+.nx-subscribe-heart-broken:before {
+  content: "\ec95";
+}
+.nx-subscribe-plus:before {
+  content: "\ecc4";
+}
+.nx-subscribe-checkmark:before {
+  content: "\ecca";
+}
+.nx-subscribe-checkmark2:before {
+  content: "\eccb";
+}
+.nx-subscribe-arrow-right2:before {
+  content: "\ecf6";
+}
+.nx-subscribe-circle-right:before {
+  content: "\ecfc";
+}
+.nx-subscribe-circle-left:before {
+  content: "\ecfe";
+}
+.nx-subscribe-plus1:before {
+  content: "\f067";
+}
+.nx-subscribe-minus1:before {
+  content: "\f068";
+}
+.nx-subscribe-envelope-o:before {
+  content: "\f003";
+}
+.nx-subscribe-heart-o:before {
+  content: "\f08a";
+}
+.nx-subscribe-mail-reply:before {
+  content: "\f112";
+}
+.nx-subscribe-reply1:before {
+  content: "\f112";
+}
